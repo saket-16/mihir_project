@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: ETMS_DE
+
+    database: DATA_SHIP
+    schema: PUBLIC
+    tables:
+      - name: USERDATA
+      - name: PERFORMANCEDATA
+      - name: TRAININGPLANDATA
+      - name: MODULEDATA
+

@@ -1,0 +1,5 @@
+moduleName,description,topics,startDate,endDate
+Web Development,Beginner level concepts on web & the various web technologies,"HTML/CSS, JavaScript, React",2024-03-29,2024-04-5
+Data Engineering,Data extraction cleaning and loading using ELT technique,"Pandas, Numpy, SQL, DBT",2024-04-6,2024-04-16
+Data Analytics,Creating personalised reports on cleaned dataset,"Power BI, Tableau",2024-04-17,2024-04-22
+Data Science,EDA ML model selection and model explainability,"Advanced Pandas, Advanced Numpy, Matplotlib, SKlearn",2024-04-23,2024-05-5
